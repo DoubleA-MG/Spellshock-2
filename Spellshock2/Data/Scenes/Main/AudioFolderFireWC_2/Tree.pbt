@@ -47,6 +47,10 @@ Objects {
       IsSpatializationEnabled: true
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 4859817366682487914
@@ -95,12 +99,10 @@ Objects {
       IsSpatializationEnabled: true
     }
   }
-  InstanceHistory {
-    SelfId: 1884167046061710470
-    SubobjectId: 6907068650606407925
-    InstanceId: 13303893279092191653
-    TemplateId: 2961603344546662916
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 15630855271564211800
@@ -155,4 +157,8 @@ Objects {
       IsSpatializationEnabled: true
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }

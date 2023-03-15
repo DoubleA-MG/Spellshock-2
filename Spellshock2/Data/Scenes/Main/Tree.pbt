@@ -37,6 +37,8 @@ Objects {
   ChildIds: 7894618171110748117
   ChildIds: 18439257393742900714
   ChildIds: 13701375997520260708
+  ChildIds: 4461702489502449528
+  ChildIds: 571583998720981548
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -49,6 +51,70 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 571583998720981548
+  Name: "Default Bindings"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2307506665685072506
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Default Bindings"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7507008865302105731
+    }
+  }
+}
+Objects {
+  Id: 4461702489502449528
+  Name: "Free Cam"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17005143668727999315
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Free Cam"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23675
+            Y: -33575
+            Z: 7375
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5172437499885760598
+    }
   }
 }
 Objects {
@@ -79,6 +145,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Datonare"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 18439257393742900714
@@ -108,6 +178,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Front UI"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 7894618171110748117
@@ -137,6 +211,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Blake"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 1672145936829432866
@@ -166,6 +244,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "estlogic"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 7134391544964931455
@@ -195,6 +277,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Roland"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 15804942893272727399
@@ -224,6 +310,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Bigglebuns"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 783937512602456512
@@ -253,6 +343,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Gabe"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 3612684566017260609
@@ -282,6 +376,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Brent"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5874015840417789592
@@ -311,6 +409,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Starting VFX"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6356897330857931981
@@ -343,6 +445,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "NPC_1"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 12626000991766525324
@@ -378,6 +484,10 @@ Objects {
     GeneratorID: "DEPRECATED"
     MaxLOD: 32
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 14162296025304194376
@@ -410,6 +520,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Witcher"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 12935185397369316502
@@ -439,6 +553,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "BEN"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 16625053971837530583
@@ -468,6 +586,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Kurtis"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 1551213308783341965
@@ -497,6 +619,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Map_Kate"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 880106829888079510
@@ -1550,6 +1676,10 @@ Objects {
     }
     MaxLOD: 32
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 15519234200537269827
@@ -1580,6 +1710,10 @@ Objects {
       Id: 2907560550017105870
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 7942565228071284537
@@ -1676,6 +1810,10 @@ Objects {
       Id: 10083459288577079857
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 728687643111351772
@@ -1722,6 +1860,10 @@ Objects {
       Id: 5929315923558538615
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 13334626079586580612
@@ -1753,6 +1895,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "UI_1"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11951527557497682472
@@ -1782,6 +1928,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Misc"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6139923059512821780
@@ -1813,6 +1963,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Gameplay"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11064051587082207804
@@ -1842,4 +1996,8 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Storage _ Refrences"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }

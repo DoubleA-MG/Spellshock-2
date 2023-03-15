@@ -2,7 +2,7 @@ Assets {
   Id: 14611952744706121197
   Name: "small_plant_bark"
   PlatformAssetType: 13
-  SerializationVersion: 101
+  SerializationVersion: 125
   CustomMaterialAsset {
     BaseMaterialId: 1964254608213071037
     ParameterOverrides {
@@ -55,7 +55,7 @@ Assets {
     }
     Assets {
       Id: 1964254608213071037
-      Name: "Bark Redwood 01"
+      Name: "Bark Redwood Advanced 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"

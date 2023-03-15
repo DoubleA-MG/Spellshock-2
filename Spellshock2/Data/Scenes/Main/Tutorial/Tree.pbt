@@ -34,6 +34,27 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   NetworkContext {
+    MinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    MaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
+    IsAllowedForPC: true
+    IsAllowedForMobile: true
+    IsAllowedForLowMemoryMobile: true
+    PCMinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    PCMaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
+    MobileMinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    MobileMaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
   }
   InstanceHistory {
     SelfId: 15586028738369698112
@@ -42,6 +63,10 @@ Objects {
     TemplateId: 13943409439355365390
     WasRoot: true
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11533796302057574211
@@ -89,6 +114,7 @@ Objects {
       TwoSided: true
       TickWhenOffScreen: true
       RedrawTime: 30
+      UseSafeZoneAdjustment: true
     }
     AnchorLayout {
       SelfAnchor {
@@ -109,6 +135,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 9634205968685989579
@@ -148,6 +178,8 @@ Objects {
     }
     Panel {
       Opacity: 1
+      OpacityMaskBrush {
+      }
     }
     AnchorLayout {
       SelfAnchor {
@@ -168,6 +200,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 4098198666550827708
@@ -219,6 +255,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -283,6 +320,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 1411954711301100493
@@ -349,6 +390,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6381475595481161481
@@ -415,6 +460,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11391926352595306386
@@ -466,6 +515,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -530,6 +580,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 790284804513028049
@@ -596,6 +650,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 14387056056925344764
@@ -662,6 +720,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 8818043233181090599
@@ -713,6 +775,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -777,6 +840,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 329521964283738818
@@ -843,6 +910,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 2085396560131008143
@@ -909,6 +980,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6141174047130628023
@@ -960,6 +1035,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -1024,6 +1100,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11898019631915085477
@@ -1089,6 +1169,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 328151793922242550
@@ -1154,6 +1238,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 13551367635229941072
@@ -1205,6 +1293,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -1269,6 +1358,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 9154498687962390727
@@ -1335,6 +1428,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 11665216661331076741
@@ -1397,6 +1494,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 17925944093960989360
@@ -1448,6 +1549,7 @@ Objects {
         Value: "mc:euianchor:middlecenter"
       }
     }
+    IsHittable: true
     Button {
       FontColor {
         A: 1
@@ -1512,6 +1614,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 9931322694517460477
@@ -1578,6 +1684,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 3315064174846683485
@@ -1640,6 +1750,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 16820217742843100736
@@ -1720,6 +1834,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 3524958907066345349
@@ -1756,6 +1874,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5708630358058457011
@@ -1795,6 +1917,10 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 9178245845969442812
@@ -1908,6 +2034,13 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  Relevance {
+    Value: "mc:edistancerelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 17146539240648227399
@@ -2021,6 +2154,13 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  Relevance {
+    Value: "mc:edistancerelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 10702995260373472442
@@ -2134,6 +2274,13 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  Relevance {
+    Value: "mc:edistancerelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 8975575332888258911
@@ -2246,4 +2393,11 @@ Objects {
     InstanceId: 11075012537177189944
     TemplateId: 13943409439355365390
   }
+  Relevance {
+    Value: "mc:edistancerelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }

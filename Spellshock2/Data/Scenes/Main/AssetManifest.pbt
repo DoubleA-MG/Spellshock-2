@@ -143,19 +143,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14114800094121343083
-  Name: "ss2_live_currency"
-  PlatformAssetType: 23
-  NetReferenceAsset {
-    NetReference {
-      Key: "d5d513aebe8a4907862c98637c1f7b6f"
-      Type {
-        Value: "mc:enetreferencetype:sharedpersistence"
-      }
-    }
-  }
-}
-Assets {
   Id: 13800436588944964225
   Name: "Bush 02"
   PlatformAssetType: 1
@@ -284,19 +271,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_tree_oak_001"
-  }
-}
-Assets {
-  Id: 10371669433068938597
-  Name: "ss2_live_cosmetic"
-  PlatformAssetType: 23
-  NetReferenceAsset {
-    NetReference {
-      Key: "c333b186a0784c47af674b7704808501"
-      Type {
-        Value: "mc:enetreferencetype:sharedpersistence"
-      }
-    }
   }
 }
 Assets {
@@ -596,6 +570,19 @@ Assets {
   }
 }
 Assets {
+  Id: 2947478989983396071
+  Name: "ss2_liveprogrssion"
+  PlatformAssetType: 23
+  NetReferenceAsset {
+    NetReference {
+      Key: "88f95215782342efacadc0ecb2c870b7"
+      Type {
+        Value: "mc:enetreferencetype:sharedpersistence"
+      }
+    }
+  }
+}
+Assets {
   Id: 2175052947894896062
   Name: "Gold Pack 4"
   PlatformAssetType: 24
@@ -604,6 +591,19 @@ Assets {
       Key: "2b7b93a96eca459587afbb4e3292dc28"
       Type {
         Value: "mc:enetreferencetype:creatorperk"
+      }
+    }
+  }
+}
+Assets {
+  Id: 2136316942997166528
+  Name: "ss2_cosmetics"
+  PlatformAssetType: 23
+  NetReferenceAsset {
+    NetReference {
+      Key: "74a9f853d66e4b66a98d97ac20b8078a"
+      Type {
+        Value: "mc:enetreferencetype:sharedpersistence"
       }
     }
   }
@@ -628,6 +628,19 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bush_generic_001"
+  }
+}
+Assets {
+  Id: 878203690060488597
+  Name: "ss2_currency"
+  PlatformAssetType: 23
+  NetReferenceAsset {
+    NetReference {
+      Key: "99f94f1354e8444ca18fd1c12ce07391"
+      Type {
+        Value: "mc:enetreferencetype:sharedpersistence"
+      }
+    }
   }
 }
 Assets {
@@ -665,19 +678,6 @@ Assets {
       Key: "39f7b248b32c4890a7b8666d16e98e12"
       Type {
         Value: "mc:enetreferencetype:creatorperk"
-      }
-    }
-  }
-}
-Assets {
-  Id: 438504899441459321
-  Name: "ss2_live_progression"
-  PlatformAssetType: 23
-  NetReferenceAsset {
-    NetReference {
-      Key: "fda12f8c98b648b0a612628d288062a6"
-      Type {
-        Value: "mc:enetreferencetype:sharedpersistence"
       }
     }
   }

@@ -43,6 +43,10 @@ Objects {
       Id: 10325830659551376446
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 3306084329147392987
@@ -201,6 +205,10 @@ Objects {
       Id: 13526242037387008233
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 1239155287608710259
@@ -221,7 +229,7 @@ Objects {
     Overrides {
       Name: "cs:Cosmetics"
       NetReference {
-        Key: "c333b186a0784c47af674b7704808501"
+        Key: "74a9f853d66e4b66a98d97ac20b8078a"
         Type {
           Value: "mc:enetreferencetype:sharedpersistence"
         }
@@ -230,7 +238,7 @@ Objects {
     Overrides {
       Name: "cs:Currency"
       NetReference {
-        Key: "d5d513aebe8a4907862c98637c1f7b6f"
+        Key: "99f94f1354e8444ca18fd1c12ce07391"
         Type {
           Value: "mc:enetreferencetype:sharedpersistence"
         }
@@ -239,7 +247,7 @@ Objects {
     Overrides {
       Name: "cs:Progression"
       NetReference {
-        Key: "fda12f8c98b648b0a612628d288062a6"
+        Key: "88f95215782342efacadc0ecb2c870b7"
         Type {
           Value: "mc:enetreferencetype:sharedpersistence"
         }
@@ -260,4 +268,8 @@ Objects {
       Id: 8607471445973396824
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }

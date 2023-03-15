@@ -549,7 +549,7 @@ Assets {
 }
 Assets {
   Id: 8075281776410522047
-  Name: "Curtains Straight"
+  Name: "Urban Curtains Straight 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
@@ -576,7 +576,7 @@ Assets {
 }
 Assets {
   Id: 7663308268157147922
-  Name: "Bark Dead 01"
+  Name: "Bark Dead Advanced 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"

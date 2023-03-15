@@ -28,6 +28,10 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Loading Screen"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 1898078422538986234
@@ -59,4 +63,8 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Game State UI"
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }

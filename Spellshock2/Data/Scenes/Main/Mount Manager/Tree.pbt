@@ -37,6 +37,10 @@ Objects {
   Folder {
     IsGroup: true
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 2609416207844223435
@@ -115,14 +119,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 2174714351500395253
@@ -201,14 +204,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 13184572075201831758
@@ -287,14 +289,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 9215402769644143910
@@ -373,14 +374,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 4271167669003534650
@@ -459,14 +459,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 15212611683052497331
@@ -545,14 +544,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6101004619410367977
@@ -631,14 +629,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 10245659407554228148
@@ -717,14 +714,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 16638255195955293314
@@ -803,14 +799,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 16976669824693433572
@@ -889,14 +884,13 @@ Objects {
       IsMountEnabled: true
       MaxHitpoints: -1
       PlayerMasterVolumeMultiplier: 1
+      ComplexCollision: true
     }
   }
-  InstanceHistory {
-    SelfId: 18224688022444578463
-    SubobjectId: 11592647923584693331
-    InstanceId: 1967900192041222895
-    TemplateId: 425347663873707340
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
   }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5405321737155082974
@@ -924,7 +918,32 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   NetworkContext {
+    MinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    MaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
+    IsAllowedForPC: true
+    IsAllowedForMobile: true
+    IsAllowedForLowMemoryMobile: true
+    PCMinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    PCMaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
+    MobileMinDetailLevel {
+      Value: "mc:edetaillevel:low"
+    }
+    MobileMaxDetailLevel {
+      Value: "mc:edetaillevel:ultra"
+    }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 274762826458352469
@@ -963,6 +982,10 @@ Objects {
       Id: 1148359876689999994
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 7181858312778661679
@@ -992,6 +1015,10 @@ Objects {
   NetworkContext {
     Type: Server
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5659926504011352444
@@ -1036,4 +1063,8 @@ Objects {
       Id: 3266292934643434662
     }
   }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
